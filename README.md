@@ -2,12 +2,11 @@
 
 ### Objective
 
-In this project, our main goal is to understand how to get user inputs in C++.
+In this project, our main goal is to understand how to get user input in C++.
 
 ### Problem
 
-Create a program that takes 2 integer from the user and print the sum of them.
-
+Create a program that takes two integers from the user and prints their sum.
 
 ### Implementation
 - Write your code in the main function.
@@ -16,7 +15,7 @@ Create a program that takes 2 integer from the user and print the sum of them.
 #include <iostream>
 
 int main() {
-    /* Your code here*/
+    /*Your code here*/
     return 0;
 }
 
